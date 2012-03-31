@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  numero: 1
+  dias_credito: 1
+  local_pagamento: MyText
+  instrucoes_bancarias: MyText
+  imprimir_especie: false
+  imprimir_numero_doc: false
+  imprimir_numero_nota: false
+  ativo: false
+  taxa_bancaria: 9.99
+  auditoria: 
+
+two:
+  nome: MyString
+  numero: 1
+  dias_credito: 1
+  local_pagamento: MyText
+  instrucoes_bancarias: MyText
+  imprimir_especie: false
+  imprimir_numero_doc: false
+  imprimir_numero_nota: false
+  ativo: false
+  taxa_bancaria: 9.99
+  auditoria: 

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  sigla: MyString
+  cotacao_comercial_compra: 9.99
+  cotacao_comercial_venda: 9.99
+  auditoria: 
+
+two:
+  nome: MyString
+  sigla: MyString
+  cotacao_comercial_compra: 9.99
+  cotacao_comercial_venda: 9.99
+  auditoria: 

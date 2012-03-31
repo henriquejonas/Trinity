@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  agenda: 1
+  numero_conta: 1
+  digito: 
+  banco: 
+  auditoria: 
+
+two:
+  agenda: 1
+  numero_conta: 1
+  digito: 
+  banco: 
+  auditoria: 

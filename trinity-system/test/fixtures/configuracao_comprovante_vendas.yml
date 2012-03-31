@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  cabecalho: MyText
+  ropade: MyText
+  imprimir_logomarca: false
+  imprimir_codigo_produto: false
+  imprimir_unidade: false
+  imprimir_dados_completo_cliente: false
+  imprimir_subtotal: false
+  imprimir_fatura_venda_prazo: false
+  imprimir_dados_entrega: false
+  imprimir_prazo_garantia: false
+  auditoria: 
+
+two:
+  cabecalho: MyText
+  ropade: MyText
+  imprimir_logomarca: false
+  imprimir_codigo_produto: false
+  imprimir_unidade: false
+  imprimir_dados_completo_cliente: false
+  imprimir_subtotal: false
+  imprimir_fatura_venda_prazo: false
+  imprimir_dados_entrega: false
+  imprimir_prazo_garantia: false
+  auditoria: 

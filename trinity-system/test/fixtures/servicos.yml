@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  ativo: false
+  imprimir_lista_precos: false
+  permitir_venda: false
+  codigo_situacao_tributaria: MyString
+  aliquota_iss: 9.99
+  observacoes: MyText
+  desconto_maximo: 9.99
+  e_commisionado: false
+  comissao_tecnicos: 9.99
+  prazo_garantia: 1
+  auditoria: 
+  categoria: 
+  preco: 
+  moeda: 
+
+two:
+  nome: MyString
+  descricao: MyText
+  ativo: false
+  imprimir_lista_precos: false
+  permitir_venda: false
+  codigo_situacao_tributaria: MyString
+  aliquota_iss: 9.99
+  observacoes: MyText
+  desconto_maximo: 9.99
+  e_commisionado: false
+  comissao_tecnicos: 9.99
+  prazo_garantia: 1
+  auditoria: 
+  categoria: 
+  preco: 
+  moeda: 

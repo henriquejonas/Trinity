@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  carteira_trabalho: MyString
+  estado_civil: 
+  data_admissao: 2012-03-31
+  data_termino_previsto_contrato: 2012-03-31
+  data_recisao_contrato: 2012-03-31
+  data_nascimento: 2012-03-31
+  salario_atual: 9.99
+  cargo: MyString
+  e_estagiario: false
+  e_vendedor: false
+  comissao_vendedor: 9.99
+  identificacao_digital: MyText
+  caminho_foto: MyText
+  ativo: false
+  auditoria: 
+  pessoa: 
+
+two:
+  carteira_trabalho: MyString
+  estado_civil: 
+  data_admissao: 2012-03-31
+  data_termino_previsto_contrato: 2012-03-31
+  data_recisao_contrato: 2012-03-31
+  data_nascimento: 2012-03-31
+  salario_atual: 9.99
+  cargo: MyString
+  e_estagiario: false
+  e_vendedor: false
+  comissao_vendedor: 9.99
+  identificacao_digital: MyText
+  caminho_foto: MyText
+  ativo: false
+  auditoria: 
+  pessoa: 

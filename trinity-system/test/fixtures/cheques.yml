@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  valor_cheque: 9.99
+  data_deposito: 2012-03-31 01:33:59
+  data_emissao: 2012-03-31
+  numero_cheque: MyString
+  banco: MyString
+  agenda: MyString
+  tipo_recebimento: false
+  foi_depositado: false
+  foi_repassado: false
+  data_deposito_repassado: false
+  auditoria: 
+  conta_caixa: 
+  parcela_cobranca: 
+  pessoa: 
+
+two:
+  valor_cheque: 9.99
+  data_deposito: 2012-03-31 01:33:59
+  data_emissao: 2012-03-31
+  numero_cheque: MyString
+  banco: MyString
+  agenda: MyString
+  tipo_recebimento: false
+  foi_depositado: false
+  foi_repassado: false
+  data_deposito_repassado: false
+  auditoria: 
+  conta_caixa: 
+  parcela_cobranca: 
+  pessoa: 

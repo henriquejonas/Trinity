@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  maximo_parcelas: 1
+  minimo_parcelas: 1
+  juros: 9.99
+  e_prazo: false
+  auditoria: 
+
+two:
+  nome: MyString
+  descricao: MyText
+  maximo_parcelas: 1
+  minimo_parcelas: 1
+  juros: 9.99
+  e_prazo: false
+  auditoria: 

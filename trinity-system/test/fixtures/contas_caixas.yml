@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  plano_conta: 
+  caixa: 
+  auditoria: 
+
+two:
+  plano_conta: 
+  caixa: 
+  auditoria: 

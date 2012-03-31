@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  impressao_final_venda: false
+  percentual_maximo_desconto: 9.99
+  leitura_etiquetas: 
+  gaveta_dinheito_acoplada: false
+  abrir_gaveta_final_venda: false
+  gerar_numero_pedidos: false
+  habilitar_vendas_prazo: false
+  lancar_controle_entregas: false
+  mostrar_foto_produto: false
+  desconto_por: false
+  ip_maquina: MyString
+  nome_maquina: MyString
+  auditoria: 
+
+two:
+  impressao_final_venda: false
+  percentual_maximo_desconto: 9.99
+  leitura_etiquetas: 
+  gaveta_dinheito_acoplada: false
+  abrir_gaveta_final_venda: false
+  gerar_numero_pedidos: false
+  habilitar_vendas_prazo: false
+  lancar_controle_entregas: false
+  mostrar_foto_produto: false
+  desconto_por: false
+  ip_maquina: MyString
+  nome_maquina: MyString
+  auditoria: 

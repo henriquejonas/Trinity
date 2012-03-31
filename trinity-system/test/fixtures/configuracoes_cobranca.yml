@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  dias_primeiro_vencimento: 1
+  juros: 9.99
+  periodo_contas_parceladas: 1
+  incluir_taxa_cobranca_bancaria: false
+  taxa_cobranca_bancaria: 9.99
+  multa: 9.99
+  tipo_juros: 
+  tipo_multa: 
+  numero_parcelamento_maximo: 1
+  numero_parcelamento_minimo: 1
+  valor_minimo_cartao_credito: 9.99
+  valor_maximo_cheque: 9.99
+  emitir_nota_fiscal: false
+  auditoria: 
+
+two:
+  dias_primeiro_vencimento: 1
+  juros: 9.99
+  periodo_contas_parceladas: 1
+  incluir_taxa_cobranca_bancaria: false
+  taxa_cobranca_bancaria: 9.99
+  multa: 9.99
+  tipo_juros: 
+  tipo_multa: 
+  numero_parcelamento_maximo: 1
+  numero_parcelamento_minimo: 1
+  valor_minimo_cartao_credito: 9.99
+  valor_maximo_cheque: 9.99
+  emitir_nota_fiscal: false
+  auditoria: 

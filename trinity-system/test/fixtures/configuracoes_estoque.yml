@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  impressao_etiquetas: false
+  imprimir_simbolo_moeda: false
+  autorizacao_estoque_negativo: false
+  utilizar_controle_validade: false
+  utilizar_controle_lote: false
+  estoque_por_deposito: false
+  auditoria: 
+
+two:
+  impressao_etiquetas: false
+  imprimir_simbolo_moeda: false
+  autorizacao_estoque_negativo: false
+  utilizar_controle_validade: false
+  utilizar_controle_lote: false
+  estoque_por_deposito: false
+  auditoria: 

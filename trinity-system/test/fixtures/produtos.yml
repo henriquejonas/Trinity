@@ -1,0 +1,61 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  nome_frabricante: MyString
+  aliquota_ipi: 9.99
+  peso_bruto: 9.99
+  peso_liquido: 9.99
+  classe_fiscal_ipi: MyString
+  desconto_maximo: 9.99
+  prazo_garantia: 1
+  tipo_comissao_vendedor: 
+  valor_comissao_vendedor: 9.99
+  imprime_item_lista_precos: false
+  ativo: false
+  manter_controle_estoque: false
+  permitir_venda: false
+  estoque_atual: 1
+  estoque_minimo: 1
+  estoque_ideal: 1
+  ultima_conferencia_estoque: 2012-03-31
+  caminho_foto: MyText
+  observacoes: MyText
+  auditoria: 
+  unidade: 
+  fornecedor: 
+  categoria: 
+  moeda: 
+  preco: 
+  deposito: 
+
+two:
+  nome: MyString
+  descricao: MyText
+  nome_frabricante: MyString
+  aliquota_ipi: 9.99
+  peso_bruto: 9.99
+  peso_liquido: 9.99
+  classe_fiscal_ipi: MyString
+  desconto_maximo: 9.99
+  prazo_garantia: 1
+  tipo_comissao_vendedor: 
+  valor_comissao_vendedor: 9.99
+  imprime_item_lista_precos: false
+  ativo: false
+  manter_controle_estoque: false
+  permitir_venda: false
+  estoque_atual: 1
+  estoque_minimo: 1
+  estoque_ideal: 1
+  ultima_conferencia_estoque: 2012-03-31
+  caminho_foto: MyText
+  observacoes: MyText
+  auditoria: 
+  unidade: 
+  fornecedor: 
+  categoria: 
+  moeda: 
+  preco: 
+  deposito: 
