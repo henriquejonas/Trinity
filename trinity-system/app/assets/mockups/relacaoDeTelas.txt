@@ -1,0 +1,27 @@
+Telas para rabisco
+
+Módulo de Configurações:
+
+Estoque --> Pronto
+Seção --> Pronto
+Categoria --> Pronto
+Deposítos --> Pronto
+Bancos --> Pronto
+Comprovante de Venda --> Pronto
+Ordem de Serviço --> Pronto
+Cobranças --> Pronto
+Email --> Pronto
+Empresa --> Pronto
+Orcamentos --> Pronto
+Ponto de Venda --> Pronto
+Geral do Sistema
+Contas bancárias --> Pronto
+Formas de Pagamento --> Pronto
+Modalidades de Atendimento --> Pronto
+Moedas --> Pronto
+Status da Assistência --> Pronto
+Tipo de Atendimento --> Pronto
+Tipos de Saída --> Pronto
+Unidades --> Pronto
+Tipos de Pedido --> Pronto
+

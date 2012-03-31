@@ -1,0 +1,20 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: trinity-system_development
+  pool: 5
+  username: henrique
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: trinity-system_test
+  pool: 5
+  username: henrique
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: trinity-system_production
+  pool: 5
+  username: henrique

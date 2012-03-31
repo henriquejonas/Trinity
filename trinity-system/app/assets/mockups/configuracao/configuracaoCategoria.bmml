@@ -1,0 +1,127 @@
+<mockup version="1.0" skin="sketch" measuredW="1476" measuredH="804" mockupW="1196" mockupH="804">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="280" y="0" w="938" h="804" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cadastro%20de%20Categoria</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TabBar" x="414" y="102" w="670" h="648" measuredW="220" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Se%E7%E3o%2C%20Categorias</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::FieldSet" x="472" y="456" w="540" h="237" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%E7%F5es%20Filhas%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="896" y="708" w="116" h="27" measuredW="60" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salvar</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="472" y="146" w="540" h="105" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pesquisa%20da%20Se%E7%E3o%20Prim%E1ria</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="504" y="180" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Nome%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="558" y="176" w="259" h="-1" measuredW="79" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="866" y="209" w="116" h="27" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pesquisar</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="891" y="304" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pesquisar%20Se%E7%E3o</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::FieldSet" x="472" y="345" w="540" h="87" measuredW="200" measuredH="170" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dados%20da%20Se%E7%E3o%20Pai</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="522" y="370" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nome%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="566" y="371" w="276" h="21" measuredW="57" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vegetais</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="497" y="396" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descri%E7%E3o%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="566" y="395" w="352" h="21" measuredW="349" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%E7%E3o%20respons%E1vel%20por%20relacionar%20os%20vegetais%20da%20hortifruti....</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::DataGrid" x="482" y="486" w="508" h="115" measuredW="467" measuredH="115" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <selectedIndex>-1</selectedIndex>
+        <text>Nome%2C%20Descri%E7%E3o%2C%20Vincular/Desvincular%0AVerduras%2C%20Se%E7%E3o%20dos%20vegetais%20prontos%20para%20consumo....%2C%20%0ALegumes%2C%20Se%E7%E3o%20dos%20vegetais%20prontos%20para%20consumo....%2C%20%0AFolhas%2C%20Se%E7%E3o%20dos%20vegetais%20prontos%20para%20consumo....%2C%20%0A%7B14L%2C%2060L%2C%2026L%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Link" x="896" y="514" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vincular</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="896" y="542" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Vincular</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Link" x="887" y="572" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Desvincular</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="482" y="608" w="89" h="22" measuredW="89" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>P%E1gina%201%20de%2010</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::StickyNote" x="1274" y="742" w="202" h="62" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exibir%2030%20resultados%20por%20p%E1gina</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Arrow" x="997" y="593" w="321" h="163" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::VCurly" x="1227" y="135" w="-1" h="-1" measuredW="180" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2101837</color>
+        <text>Esta%20se%E7%E3o%20dever%E1%20sumir%20ao%20realizar%20uma%20pesquisa%20bem%20sucedida</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::VCurly" x="1234" y="310" w="180" h="440" measuredW="180" measuredH="140" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2101837</color>
+        <text>Esta%20se%E7%E3o%20dever%E1%20aparecer%20ao%20realizar%20uma%20pesquisa%20bem%20sucedida</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

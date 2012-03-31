@@ -1,0 +1,93 @@
+<mockup version="1.0" skin="sketch" measuredW="1234" measuredH="758" mockupW="938" mockupH="758">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="296" y="0" w="938" h="758" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Configura%E7%F5es%20do%20Comprovante%20de%20Venda</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="435" y="438" w="642" h="174" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Op%E7%F5es%20de%20Impress%E3o%20do%20Comprovante</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="435" y="95" w="642" h="316" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Informa%E7%F5es%20Textuais</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="461" y="132" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cabe%E7alho%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="554" y="132" w="478" h="111" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="479" y="269" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rodap%E9%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="554" y="269" w="478" h="111" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::CheckBox" x="446" y="478" w="-1" h="-1" measuredW="216" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Imprimir%20logomarca%20da%20empresa</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBox" x="446" y="511" w="-1" h="-1" measuredW="229" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Imprimir%20c%F3digo%20interno%20do%20produto</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="446" y="542" w="-1" h="-1" measuredW="190" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Imprimir%20unidade%20do%20produto</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::CheckBox" x="446" y="575" w="-1" h="-1" measuredW="237" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Imprimir%20dados%20completos%20do%20cliente</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="749" y="478" w="278" h="119" measuredW="278" measuredH="119" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="0" w="-1" h="-1" measuredW="184" measuredH="22" zOrder="0" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>*Imprimir%20subtotal%20da%20venda</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="33" w="-1" h="-1" measuredW="278" measuredH="22" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>*Imprimir%20faturas/carn%EA%20para%20vendas%20%E0%20prazo</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="64" w="-1" h="-1" measuredW="185" measuredH="22" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>*Imprimir%20dados%20da%20entrega</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="0" y="97" w="-1" h="-1" measuredW="262" measuredH="22" zOrder="3" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>*Imprimir%20prazo%20de%20garantia%20dos%20produtos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="830" y="643" w="116" h="31" measuredW="60" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salvar</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="961" y="644" w="116" h="31" measuredW="63" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Limpar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
