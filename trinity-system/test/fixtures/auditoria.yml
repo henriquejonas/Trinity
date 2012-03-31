@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  usuario_criacao: MyString
+  usuario_atualizacao: MyString
+  ip_criacao: MyString
+  ip_atualizacao: MyString
+
+two:
+  usuario_criacao: MyString
+  usuario_atualizacao: MyString
+  ip_criacao: MyString
+  ip_atualizacao: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  area_especialidade: MyString
+  ativo: false
+  auditoria: 
+  pessoa: 
+
+two:
+  area_especialidade: MyString
+  ativo: false
+  auditoria: 
+  pessoa: 

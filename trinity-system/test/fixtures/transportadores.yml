@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  horario_abertura: MyString
+  horario_fechamento: MyString
+  e_entrega_rapida: false
+  e_entrega_internacional: MyString
+  dias_funcionamento: MyString
+  ativo: false
+  auditoria: 
+  pessoa: 
+
+two:
+  horario_abertura: MyString
+  horario_fechamento: MyString
+  e_entrega_rapida: false
+  e_entrega_internacional: MyString
+  dias_funcionamento: MyString
+  ativo: false
+  auditoria: 
+  pessoa: 

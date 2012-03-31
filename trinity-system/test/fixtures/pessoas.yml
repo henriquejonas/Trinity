@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nome: MyString
+  tipo_documento: false
+  documento: MyString
+  endereco: 
+  telefone: MyString
+  celular: MyString
+  fax: MyString
+  email: MyString
+  site: MyString
+  insc_estadual: MyString
+  profissao: MyString
+  estavao_civil: MyString
+  identidade: MyString
+  orgao_emissor_identidade: MyString
+  data_emissao_identidade: MyString
+  ativo: false
+  auditoria: 
+
+two:
+  nome: MyString
+  tipo_documento: false
+  documento: MyString
+  endereco: 
+  telefone: MyString
+  celular: MyString
+  fax: MyString
+  email: MyString
+  site: MyString
+  insc_estadual: MyString
+  profissao: MyString
+  estavao_civil: MyString
+  identidade: MyString
+  orgao_emissor_identidade: MyString
+  data_emissao_identidade: MyString
+  ativo: false
+  auditoria: 
