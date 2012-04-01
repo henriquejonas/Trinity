@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  data_realizacao: 2012-03-31 21:57:44
+  previsao_entrega: 2012-03-31
+  previsao_pagamento: 2012-03-31
+  valor_total: 9.99
+  observacoes: MyText
+  cancelado: false
+  modo_pedido: MyString
+  status_pedido: MyString
+  auditoria: 
+  tipo_pedido: 
+
+two:
+  data_realizacao: 2012-03-31 21:57:44
+  previsao_entrega: 2012-03-31
+  previsao_pagamento: 2012-03-31
+  valor_total: 9.99
+  observacoes: MyText
+  cancelado: false
+  modo_pedido: MyString
+  status_pedido: MyString
+  auditoria: 
+  tipo_pedido: 

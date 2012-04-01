@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  data: 2012-03-31
+  descricao: MyText
+  notificar: false
+  hora_inicio: 2012-03-31 21:44:04
+  hora_fim: 2012-03-31 21:44:04
+  urgente: false
+  auditoria: 
+  funcionario: 
+
+two:
+  data: 2012-03-31
+  descricao: MyText
+  notificar: false
+  hora_inicio: 2012-03-31 21:44:04
+  hora_fim: 2012-03-31 21:44:04
+  urgente: false
+  auditoria: 
+  funcionario: 

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  data_vencimento: 2012-03-31
+  valor: 9.99
+  local_pagamento: MyText
+  descricao: MyText
+  intervalo_dias: 1
+  auditoria: 
+
+two:
+  data_vencimento: 2012-03-31
+  valor: 9.99
+  local_pagamento: MyText
+  descricao: MyText
+  intervalo_dias: 1
+  auditoria: 

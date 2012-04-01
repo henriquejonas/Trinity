@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  pessoa: 
+  objetivo: MyText
+  motivacao: MyText
+  codigo_interno: MyString
+  condicoes_pagamento: MyText
+  juros: MyText
+  multa: MyText
+  correcao_monetaria: MyText
+  clausula_recisoria: MyText
+  data_contratacao: 2012-03-31 22:05:41
+  data_validade: 2012-03-31
+  copia_documento: 
+  auditoria: 
+
+two:
+  pessoa: 
+  objetivo: MyText
+  motivacao: MyText
+  codigo_interno: MyString
+  condicoes_pagamento: MyText
+  juros: MyText
+  multa: MyText
+  correcao_monetaria: MyText
+  clausula_recisoria: MyText
+  data_contratacao: 2012-03-31 22:05:41
+  data_validade: 2012-03-31
+  copia_documento: 
+  auditoria: 

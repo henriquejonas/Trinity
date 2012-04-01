@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  cabecalho: MyText
+  rodape: MyText
+  imprimir_logotipo: false
+  solicitar_tecnico_venda_servico: false
+  solicitar_vendedor_venda: 
+  declaracao: MyText
+  protocolo_cabecalho: MyText
+  protocolo_observacoes: MyText
+  auditoria: 
+
+two:
+  cabecalho: MyText
+  rodape: MyText
+  imprimir_logotipo: false
+  solicitar_tecnico_venda_servico: false
+  solicitar_vendedor_venda: 
+  declaracao: MyText
+  protocolo_cabecalho: MyText
+  protocolo_observacoes: MyText
+  auditoria: 

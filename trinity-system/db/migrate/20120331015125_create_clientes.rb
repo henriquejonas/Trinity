@@ -1,7 +1,7 @@
 class CreateClientes < ActiveRecord::Migration
   def change
     create_table :clientes do |t|
-      t.character :tipo_cliente
+      t.string :tipo_cliente
       t.boolean :ativo
       t.references :endereco
       t.references :pessoa

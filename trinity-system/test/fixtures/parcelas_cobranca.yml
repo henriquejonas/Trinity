@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  valor_parcela: 9.99
+  valor_original: 9.99
+  juros: 9.99
+  multa: 9.99
+  data_vencimento: 2012-03-31
+  cancelada: false
+  paga: false
+  auditoria: 
+  cobranca: 
+  conta_caixa: 
+
+two:
+  valor_parcela: 9.99
+  valor_original: 9.99
+  juros: 9.99
+  multa: 9.99
+  data_vencimento: 2012-03-31
+  cancelada: false
+  paga: false
+  auditoria: 
+  cobranca: 
+  conta_caixa: 

@@ -2,7 +2,7 @@ class CreateFuncionarios < ActiveRecord::Migration
   def change
     create_table :funcionarios do |t|
       t.string :carteira_trabalho
-      t.character :estado_civil
+      t.string :estado_civil
       t.date :data_admissao
       t.date :data_termino_previsto_contrato
       t.date :data_recisao_contrato

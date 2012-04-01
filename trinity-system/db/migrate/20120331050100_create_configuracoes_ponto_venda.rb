@@ -3,7 +3,7 @@ class CreateConfiguracoesPontoVenda < ActiveRecord::Migration
     create_table :configuracoes_ponto_venda do |t|
       t.boolean :impressao_final_venda
       t.decimal :percentual_maximo_desconto
-      t.character :leitura_etiquetas
+      t.string :leitura_etiquetas
       t.boolean :gaveta_dinheito_acoplada
       t.boolean :abrir_gaveta_final_venda
       t.boolean :gerar_numero_pedidos

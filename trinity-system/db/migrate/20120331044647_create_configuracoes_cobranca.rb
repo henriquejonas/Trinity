@@ -7,8 +7,8 @@ class CreateConfiguracoesCobranca < ActiveRecord::Migration
       t.boolean :incluir_taxa_cobranca_bancaria
       t.decimal :taxa_cobranca_bancaria
       t.decimal :multa
-      t.character :tipo_juros
-      t.character :tipo_multa
+      t.string :tipo_juros
+      t.string :tipo_multa
       t.integer :numero_parcelamento_maximo
       t.integer :numero_parcelamento_minimo
       t.decimal :valor_minimo_cartao_credito

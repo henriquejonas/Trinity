@@ -3,7 +3,7 @@ class CreateContasBancarias < ActiveRecord::Migration
     create_table :contas_bancarias do |t|
       t.integer :agenda
       t.integer :numero_conta
-      t.character :digito
+      t.string :digito
       t.references :banco
       t.references :auditoria
 

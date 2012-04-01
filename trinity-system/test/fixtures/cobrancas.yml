@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  data_entrada: 2012-03-31
+  numero_documento: MyString
+  valor_total: 9.99
+  valor_inicial: 9.99
+  juros: 9.99
+  multa: 9.99
+  numero_parcelas: 1
+  data_primeiro_vencimento: 2012-03-31
+  cancelada: false
+  auditoria: 
+  venda: 
+  despesa_fixa: 
+  pedido: 
+
+two:
+  data_entrada: 2012-03-31
+  numero_documento: MyString
+  valor_total: 9.99
+  valor_inicial: 9.99
+  juros: 9.99
+  multa: 9.99
+  numero_parcelas: 1
+  data_primeiro_vencimento: 2012-03-31
+  cancelada: false
+  auditoria: 
+  venda: 
+  despesa_fixa: 
+  pedido: 

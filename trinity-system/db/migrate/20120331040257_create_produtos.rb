@@ -10,7 +10,7 @@ class CreateProdutos < ActiveRecord::Migration
       t.string :classe_fiscal_ipi
       t.decimal :desconto_maximo
       t.integer :prazo_garantia
-      t.character :tipo_comissao_vendedor
+      t.string :tipo_comissao_vendedor
       t.decimal :valor_comissao_vendedor
       t.boolean :imprime_item_lista_precos
       t.boolean :ativo
