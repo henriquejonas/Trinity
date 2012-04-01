@@ -96,4 +96,6 @@ ActiveSupport::Inflector.inflections do |inflect|
 	inflect.irregular "EquipamentoServico", "EquipamentosServico"
 	inflect.irregular "ordem_servico", "ordens_servico"
 	inflect.irregular "OrdemServico", "OrdensServico"
+	inflect.irregular "user", "users"
+	inflect.irregular "User", "Users"
 end

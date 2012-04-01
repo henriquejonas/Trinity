@@ -1,0 +1,15 @@
+<table>
+  <tr>
+  	<% columns.each do |field| %>
+  		<th><%= field.html_safe %></th>
+  	<% end %>
+  </tr>
+  
+	<% i = 0 %>
+	<% @alt = true; %>
+	<% rows.each do |row| %>
+		<% @alt = !@alt %>
+	   <tr class="<%= 'alt-row' unless @alt %> row-<%= i %>"><%= send(print_row, row).html_safe %></tr>
+		<% i += 1 %>
+	<% end %>
+</table>
